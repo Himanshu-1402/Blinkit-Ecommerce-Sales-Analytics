@@ -8,6 +8,7 @@ A professional Excel-based analysis project on Blinkit’s e-commerce sales data
 
 This project aims to analyse data and derive actionable insights from Blinkit's sales and outlet data using Excel. The final dashboard provides a compact and interactive summary of key metrics across various business dimensions, enabling strategic understanding of market performance and customer trends.
 
++ ![Dashboard](Screenshot%202025-06-23%20215215.png)
 ---
 
 ## 📊 Key KPIs & Insights
